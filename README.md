@@ -211,4 +211,4 @@ de (θ'1, θ'2).
 
 Nous obtenons le chemin entre le neurone le plus proche de (θ1, θ2) et le neurone le plus proche de (θ'1, θ'2). Pour 
 chaque de ce chemin, nous pouvons extraire (x1,x2) pour connaitre la suite des positions spatiales prise par la main.
-![image du chemin généré](http://jlefebvre.fr/M1/mif16/TIA_NN.png)
+![image du chemin généré](http://m1.jlefebvre.fr/mif16/TIA_NN.png)
